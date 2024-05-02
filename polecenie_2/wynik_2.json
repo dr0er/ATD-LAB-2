@@ -1,0 +1,782 @@
+[
+  {
+    "_id": "Geologist III",
+    "avgAge": 33.14346480183141
+  },
+  {
+    "_id": "Research Assistant II",
+    "avgAge": 35.50331264063293
+  },
+  {
+    "_id": "Office Assistant IV",
+    "avgAge": 35.898122574121636
+  },
+  {
+    "_id": "Automation Specialist III",
+    "avgAge": 36.91359150663311
+  },
+  {
+    "_id": "Programmer Analyst III",
+    "avgAge": 37.50811360778158
+  },
+  {
+    "_id": "Web Developer II",
+    "avgAge": 38.54807571174297
+  },
+  {
+    "_id": "Accounting Assistant I",
+    "avgAge": 38.81342033806297
+  },
+  {
+    "_id": "Research Assistant I",
+    "avgAge": 38.830341444654884
+  },
+  {
+    "_id": "Programmer III",
+    "avgAge": 39.373587112938246
+  },
+  {
+    "_id": "Administrative Assistant IV",
+    "avgAge": 39.61462053214316
+  },
+  {
+    "_id": "Safety Technician III",
+    "avgAge": 40.58550621041561
+  },
+  {
+    "_id": "Engineer I",
+    "avgAge": 40.77487320633561
+  },
+  {
+    "_id": "Human Resources Assistant III",
+    "avgAge": 40.85581029157154
+  },
+  {
+    "_id": "Account Representative I",
+    "avgAge": 40.9167739399643
+  },
+  {
+    "_id": "Geologist IV",
+    "avgAge": 41.00138841049153
+  },
+  {
+    "_id": "Marketing Assistant",
+    "avgAge": 41.07644557840504
+  },
+  {
+    "_id": "Recruiter",
+    "avgAge": 41.28712341226702
+  },
+  {
+    "_id": "Human Resources Assistant IV",
+    "avgAge": 41.503521661568065
+  },
+  {
+    "_id": "Biostatistician IV",
+    "avgAge": 41.80233906884196
+  },
+  {
+    "_id": "Office Assistant III",
+    "avgAge": 41.831176122931815
+  },
+  {
+    "_id": "Media Manager IV",
+    "avgAge": 42.061053893260315
+  },
+  {
+    "_id": "Administrative Assistant I",
+    "avgAge": 42.10087992654653
+  },
+  {
+    "_id": "Staff Accountant IV",
+    "avgAge": 42.225406459817926
+  },
+  {
+    "_id": "Data Coordiator",
+    "avgAge": 42.24735350207328
+  },
+  {
+    "_id": "Account Coordinator",
+    "avgAge": 42.511346974065525
+  },
+  {
+    "_id": "Software Test Engineer I",
+    "avgAge": 42.53484858656485
+  },
+  {
+    "_id": "Senior Developer",
+    "avgAge": 42.82599391974828
+  },
+  {
+    "_id": "Design Engineer",
+    "avgAge": 42.906090160817584
+  },
+  {
+    "_id": "Computer Systems Analyst I",
+    "avgAge": 43.006187742969075
+  },
+  {
+    "_id": "Administrative Officer",
+    "avgAge": 43.100433003337194
+  },
+  {
+    "_id": "Geologist II",
+    "avgAge": 43.284182107963574
+  },
+  {
+    "_id": "Developer III",
+    "avgAge": 43.324785534045745
+  },
+  {
+    "_id": "Health Coach II",
+    "avgAge": 43.66038299197742
+  },
+  {
+    "_id": "Biostatistician III",
+    "avgAge": 43.90833986759987
+  },
+  {
+    "_id": "Media Manager II",
+    "avgAge": 44.01623416390458
+  },
+  {
+    "_id": "Account Representative II",
+    "avgAge": 44.08416656789067
+  },
+  {
+    "_id": "Engineer II",
+    "avgAge": 44.1406369299998
+  },
+  {
+    "_id": "Account Representative III",
+    "avgAge": 44.15684564259894
+  },
+  {
+    "_id": "Professor",
+    "avgAge": 44.226059448069755
+  },
+  {
+    "_id": "Systems Administrator IV",
+    "avgAge": 44.315404459506595
+  },
+  {
+    "_id": "Web Designer I",
+    "avgAge": 44.46351799113183
+  },
+  {
+    "_id": "Web Designer III",
+    "avgAge": 44.60503337062965
+  },
+  {
+    "_id": "Assistant Manager",
+    "avgAge": 44.62546948261768
+  },
+  {
+    "_id": "Developer IV",
+    "avgAge": 44.64131815400067
+  },
+  {
+    "_id": "VP Quality Control",
+    "avgAge": 44.6852987790292
+  },
+  {
+    "_id": "Staff Accountant III",
+    "avgAge": 44.71842575190015
+  },
+  {
+    "_id": "Accounting Assistant III",
+    "avgAge": 44.746390073830966
+  },
+  {
+    "_id": "Pharmacist",
+    "avgAge": 44.83241161062427
+  },
+  {
+    "_id": "Web Developer I",
+    "avgAge": 44.84215285499112
+  },
+  {
+    "_id": "Help Desk Operator",
+    "avgAge": 44.91151450917415
+  },
+  {
+    "_id": "Senior Quality Engineer",
+    "avgAge": 44.913888383548056
+  },
+  {
+    "_id": "VP Accounting",
+    "avgAge": 44.98456604507547
+  },
+  {
+    "_id": "Dental Hygienist",
+    "avgAge": 45.026276302467146
+  },
+  {
+    "_id": "Human Resources Assistant II",
+    "avgAge": 45.02806992331515
+  },
+  {
+    "_id": "Budget/Accounting Analyst I",
+    "avgAge": 45.0556332855195
+  },
+  {
+    "_id": "Senior Financial Analyst",
+    "avgAge": 45.11397368490955
+  },
+  {
+    "_id": "Mechanical Systems Engineer",
+    "avgAge": 45.15045217686562
+  },
+  {
+    "_id": "Web Developer IV",
+    "avgAge": 45.17263370051511
+  },
+  {
+    "_id": "Chief Design Engineer",
+    "avgAge": 45.18060592686036
+  },
+  {
+    "_id": "Office Assistant I",
+    "avgAge": 45.19405731216826
+  },
+  {
+    "_id": "Programmer I",
+    "avgAge": 45.221214726560696
+  },
+  {
+    "_id": "Media Manager III",
+    "avgAge": 45.310271204813546
+  },
+  {
+    "_id": "Technical Writer",
+    "avgAge": 45.348782423466155
+  },
+  {
+    "_id": "Graphic Designer",
+    "avgAge": 45.390549080336754
+  },
+  {
+    "_id": "Software Test Engineer III",
+    "avgAge": 45.50612562684974
+  },
+  {
+    "_id": "Food Chemist",
+    "avgAge": 45.510650668543654
+  },
+  {
+    "_id": "Desktop Support Technician",
+    "avgAge": 45.540728101119505
+  },
+  {
+    "_id": "Operator",
+    "avgAge": 45.54660661610624
+  },
+  {
+    "_id": "Legal Assistant",
+    "avgAge": 45.67930118745244
+  },
+  {
+    "_id": "Media Manager I",
+    "avgAge": 45.67964659230721
+  },
+  {
+    "_id": "Senior Sales Associate",
+    "avgAge": 45.687675307367435
+  },
+  {
+    "_id": "Software Engineer III",
+    "avgAge": 45.72271487699537
+  },
+  {
+    "_id": "Financial Analyst",
+    "avgAge": 45.73781976237944
+  },
+  {
+    "_id": "Marketing Manager",
+    "avgAge": 45.80075446991025
+  },
+  {
+    "_id": "Biostatistician I",
+    "avgAge": 45.91024317600952
+  },
+  {
+    "_id": "Sales Associate",
+    "avgAge": 46.06023334942693
+  },
+  {
+    "_id": "Internal Auditor",
+    "avgAge": 46.110983394842776
+  },
+  {
+    "_id": "Occupational Therapist",
+    "avgAge": 46.12080314774175
+  },
+  {
+    "_id": "Paralegal",
+    "avgAge": 46.17334547956925
+  },
+  {
+    "_id": "Human Resources Manager",
+    "avgAge": 46.29650076608124
+  },
+  {
+    "_id": "Geologist I",
+    "avgAge": 46.336107801474746
+  },
+  {
+    "_id": "VP Sales",
+    "avgAge": 46.37675529507743
+  },
+  {
+    "_id": "Research Associate",
+    "avgAge": 46.38427263958275
+  },
+  {
+    "_id": "Speech Pathologist",
+    "avgAge": 46.40861658060694
+  },
+  {
+    "_id": "Chemical Engineer",
+    "avgAge": 46.459910785226796
+  },
+  {
+    "_id": "Electrical Engineer",
+    "avgAge": 46.47323487473721
+  },
+  {
+    "_id": "Senior Cost Accountant",
+    "avgAge": 46.50845335358985
+  },
+  {
+    "_id": "Clinical Specialist",
+    "avgAge": 46.628008555566126
+  },
+  {
+    "_id": "Sales Representative",
+    "avgAge": 46.64007477637513
+  },
+  {
+    "_id": "Civil Engineer",
+    "avgAge": 46.675670154484344
+  },
+  {
+    "_id": "Environmental Specialist",
+    "avgAge": 46.694444163293696
+  },
+  {
+    "_id": "Product Engineer",
+    "avgAge": 46.80693354306023
+  },
+  {
+    "_id": "Software Engineer II",
+    "avgAge": 46.92545013538441
+  },
+  {
+    "_id": "VP Marketing",
+    "avgAge": 46.98263430241394
+  },
+  {
+    "_id": "Budget/Accounting Analyst III",
+    "avgAge": 46.99341795886572
+  },
+  {
+    "_id": "General Manager",
+    "avgAge": 47.07868660055175
+  },
+  {
+    "_id": "Business Systems Development Analyst",
+    "avgAge": 47.14987386422669
+  },
+  {
+    "_id": "Accounting Assistant IV",
+    "avgAge": 47.16876739456494
+  },
+  {
+    "_id": "Junior Executive",
+    "avgAge": 47.17037832746703
+  },
+  {
+    "_id": "Nurse Practicioner",
+    "avgAge": 47.185712316891056
+  },
+  {
+    "_id": "Information Systems Manager",
+    "avgAge": 47.190562264038284
+  },
+  {
+    "_id": "Librarian",
+    "avgAge": 47.209430506753364
+  },
+  {
+    "_id": "Registered Nurse",
+    "avgAge": 47.24520762614656
+  },
+  {
+    "_id": "Software Test Engineer II",
+    "avgAge": 47.25437537052892
+  },
+  {
+    "_id": "Cost Accountant",
+    "avgAge": 47.31215585096438
+  },
+  {
+    "_id": "Systems Administrator I",
+    "avgAge": 47.35879066142302
+  },
+  {
+    "_id": "Social Worker",
+    "avgAge": 47.36076531964717
+  },
+  {
+    "_id": "Structural Engineer",
+    "avgAge": 47.40119782917562
+  },
+  {
+    "_id": "Staff Scientist",
+    "avgAge": 47.48175312727718
+  },
+  {
+    "_id": "Actuary",
+    "avgAge": 47.495148678918405
+  },
+  {
+    "_id": "Statistician IV",
+    "avgAge": 47.50179214289489
+  },
+  {
+    "_id": "Safety Technician IV",
+    "avgAge": 47.50651736405678
+  },
+  {
+    "_id": "Software Engineer I",
+    "avgAge": 47.545941770112655
+  },
+  {
+    "_id": "Accountant II",
+    "avgAge": 47.58986287615021
+  },
+  {
+    "_id": "Assistant Professor",
+    "avgAge": 47.63308981921918
+  },
+  {
+    "_id": "Automation Specialist IV",
+    "avgAge": 47.64681697782781
+  },
+  {
+    "_id": "Systems Administrator III",
+    "avgAge": 47.75495894473472
+  },
+  {
+    "_id": "Accounting Assistant II",
+    "avgAge": 47.78788348918696
+  },
+  {
+    "_id": "VP Product Management",
+    "avgAge": 47.84624145284684
+  },
+  {
+    "_id": "Executive Secretary",
+    "avgAge": 47.87238556602869
+  },
+  {
+    "_id": "Developer II",
+    "avgAge": 47.88244482496884
+  },
+  {
+    "_id": "Assistant Media Planner",
+    "avgAge": 47.90122805089576
+  },
+  {
+    "_id": "Environmental Tech",
+    "avgAge": 47.914237787709354
+  },
+  {
+    "_id": "Senior Editor",
+    "avgAge": 47.950706653295704
+  },
+  {
+    "_id": "Programmer Analyst I",
+    "avgAge": 48.12949999001142
+  },
+  {
+    "_id": "Payment Adjustment Coordinator",
+    "avgAge": 48.1847561184294
+  },
+  {
+    "_id": "Recruiting Manager",
+    "avgAge": 48.393569666419886
+  },
+  {
+    "_id": "Research Nurse",
+    "avgAge": 48.43472630931493
+  },
+  {
+    "_id": "Accountant I",
+    "avgAge": 48.44714348391312
+  },
+  {
+    "_id": "Health Coach I",
+    "avgAge": 48.46681758031386
+  },
+  {
+    "_id": "Research Assistant IV",
+    "avgAge": 48.47307417242728
+  },
+  {
+    "_id": "Financial Advisor",
+    "avgAge": 48.48370117659595
+  },
+  {
+    "_id": "Teacher",
+    "avgAge": 48.64328909438902
+  },
+  {
+    "_id": "Accountant IV",
+    "avgAge": 48.810237378075854
+  },
+  {
+    "_id": "Help Desk Technician",
+    "avgAge": 48.83070564531643
+  },
+  {
+    "_id": "Associate Professor",
+    "avgAge": 48.84357781376839
+  },
+  {
+    "_id": "Computer Systems Analyst III",
+    "avgAge": 48.881850594988954
+  },
+  {
+    "_id": "Automation Specialist I",
+    "avgAge": 48.9124585894805
+  },
+  {
+    "_id": "Software Test Engineer IV",
+    "avgAge": 48.91560575426747
+  },
+  {
+    "_id": "Analyst Programmer",
+    "avgAge": 48.96336110817882
+  },
+  {
+    "_id": "Accountant III",
+    "avgAge": 49.02261144200279
+  },
+  {
+    "_id": "Structural Analysis Engineer",
+    "avgAge": 49.02808129974426
+  },
+  {
+    "_id": "Programmer IV",
+    "avgAge": 49.06582586361618
+  },
+  {
+    "_id": "Web Designer IV",
+    "avgAge": 49.1220021859145
+  },
+  {
+    "_id": "Systems Administrator II",
+    "avgAge": 49.144132283263566
+  },
+  {
+    "_id": "Account Executive",
+    "avgAge": 49.19885411618382
+  },
+  {
+    "_id": "Programmer II",
+    "avgAge": 49.205008862939714
+  },
+  {
+    "_id": "Account Representative IV",
+    "avgAge": 49.2848276756043
+  },
+  {
+    "_id": "Editor",
+    "avgAge": 49.38768019856095
+  },
+  {
+    "_id": "Nurse",
+    "avgAge": 49.400484908119324
+  },
+  {
+    "_id": "GIS Technical Architect",
+    "avgAge": 49.44280929477894
+  },
+  {
+    "_id": "Web Developer III",
+    "avgAge": 49.515164327593865
+  },
+  {
+    "_id": "Geological Engineer",
+    "avgAge": 49.52567857804185
+  },
+  {
+    "_id": "Quality Engineer",
+    "avgAge": 49.525757324579565
+  },
+  {
+    "_id": "Biostatistician II",
+    "avgAge": 49.8697150953672
+  },
+  {
+    "_id": "Analog Circuit Design manager",
+    "avgAge": 49.899973615191236
+  },
+  {
+    "_id": "Statistician II",
+    "avgAge": 49.99268346286783
+  },
+  {
+    "_id": "Database Administrator III",
+    "avgAge": 50.12196812493472
+  },
+  {
+    "_id": "Tax Accountant",
+    "avgAge": 50.20602685097983
+  },
+  {
+    "_id": "Statistician III",
+    "avgAge": 50.279245781857774
+  },
+  {
+    "_id": "Nuclear Power Engineer",
+    "avgAge": 50.32723524495814
+  },
+  {
+    "_id": "Budget/Accounting Analyst II",
+    "avgAge": 50.422574717659536
+  },
+  {
+    "_id": "Community Outreach Specialist",
+    "avgAge": 50.43474324375317
+  },
+  {
+    "_id": "Compensation Analyst",
+    "avgAge": 50.52253819748603
+  },
+  {
+    "_id": "Budget/Accounting Analyst IV",
+    "avgAge": 50.58740532994038
+  },
+  {
+    "_id": "Developer I",
+    "avgAge": 50.69017352977549
+  },
+  {
+    "_id": "Office Assistant II",
+    "avgAge": 50.69404921021478
+  },
+  {
+    "_id": "Research Assistant III",
+    "avgAge": 50.70705568259857
+  },
+  {
+    "_id": "Statistician I",
+    "avgAge": 50.75258898871269
+  },
+  {
+    "_id": "Software Engineer IV",
+    "avgAge": 50.802415089205404
+  },
+  {
+    "_id": "Health Coach IV",
+    "avgAge": 50.83435378477737
+  },
+  {
+    "_id": "Quality Control Specialist",
+    "avgAge": 50.86030308847533
+  },
+  {
+    "_id": "Safety Technician II",
+    "avgAge": 50.91921464215499
+  },
+  {
+    "_id": "Physical Therapy Assistant",
+    "avgAge": 50.969154814519875
+  },
+  {
+    "_id": "Human Resources Assistant I",
+    "avgAge": 51.281090073408166
+  },
+  {
+    "_id": "Director of Sales",
+    "avgAge": 51.339463033989034
+  },
+  {
+    "_id": "Database Administrator II",
+    "avgAge": 51.603405119976266
+  },
+  {
+    "_id": "Software Consultant",
+    "avgAge": 51.60932611597328
+  },
+  {
+    "_id": "Staff Accountant I",
+    "avgAge": 51.70836098617453
+  },
+  {
+    "_id": "Project Manager",
+    "avgAge": 51.887821748503505
+  },
+  {
+    "_id": "Staff Accountant II",
+    "avgAge": 51.97701417816147
+  },
+  {
+    "_id": "Safety Technician I",
+    "avgAge": 52.16746387904445
+  },
+  {
+    "_id": "Database Administrator IV",
+    "avgAge": 52.49932219074752
+  },
+  {
+    "_id": "Health Coach III",
+    "avgAge": 53.00281274210427
+  },
+  {
+    "_id": "Administrative Assistant III",
+    "avgAge": 53.13665586598001
+  },
+  {
+    "_id": "Engineer III",
+    "avgAge": 53.584780885178844
+  },
+  {
+    "_id": "Programmer Analyst IV",
+    "avgAge": 53.757972329703996
+  },
+  {
+    "_id": "Administrative Assistant II",
+    "avgAge": 54.324317600044395
+  },
+  {
+    "_id": "Database Administrator I",
+    "avgAge": 54.596868206758415
+  },
+  {
+    "_id": "Engineer IV",
+    "avgAge": 54.63156780523743
+  },
+  {
+    "_id": "Automation Specialist II",
+    "avgAge": 54.76102097769682
+  },
+  {
+    "_id": "Computer Systems Analyst IV",
+    "avgAge": 55.36872470662239
+  },
+  {
+    "_id": "Web Designer II",
+    "avgAge": 56.97482738941677
+  },
+  {
+    "_id": "Programmer Analyst II",
+    "avgAge": 57.09805468499845
+  },
+  {
+    "_id": "Computer Systems Analyst II",
+    "avgAge": 57.15374889404173
+  }
+]
